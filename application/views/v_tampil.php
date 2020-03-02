@@ -14,6 +14,7 @@
 			<th>Pekerjaan</th>
 			<th>Action</th>
 		</tr>
+		<!-- Menampilkan data di database -->
 		<?php 
 		$no = 1;
 		foreach($user as $u){ 

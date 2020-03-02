@@ -73,6 +73,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $active_group = 'default';
 $query_builder = TRUE;
 
+
+//mengatur database yang akan digunakan dalam pembuatan website
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',

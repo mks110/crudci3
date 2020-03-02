@@ -1,3 +1,4 @@
+//menghilangkan index pada codeigniter
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 

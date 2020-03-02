@@ -8,7 +8,7 @@
 		<h1>Membuat CRUD dengan CodeIgniter | MalasNgoding.com</h1>
 		<h3>Tambah data baru</h3>
 	</center>
-	<form action="<?php echo base_url(). 'crud/tambah_aksi'; ?>" method="post">
+	<form action="<?php echo base_url(). 'crud/tambah_aksi'; ?>" method="post"> <!-- memasukan data pada database -->
 		<table style="margin:20px auto;">
 			<tr>
 				<td>Nama</td>

@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/belajarci3';
+$config['base_url'] = 'http://localhost/belajarci3'; //lokasi website default
 
 /*
 |--------------------------------------------------------------------------
@@ -35,7 +35,7 @@ $config['base_url'] = 'http://localhost/belajarci3';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = '';
+$config['index_page'] = ''; //memanggil index.php pada url (jika dihapus tidak perlu memanggil index.php pada url)
 
 /*
 |--------------------------------------------------------------------------

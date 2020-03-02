@@ -9,7 +9,7 @@
 		<h3>Edit Data</h3>
 	</center>
 	<?php foreach($user as $u){ ?>
-	<form action="<?php echo base_url(). 'crud/update'; ?>" method="post">
+	<form action="<?php echo base_url(). 'crud/update'; ?>" method="post"> <!-- memunculkan data yang akan diedit sesuai database -->
 		<table style="margin:20px auto;">
 			<tr>
 				<td>Nama</td>

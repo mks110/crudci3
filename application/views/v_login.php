@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h1>Membuat Login Dengan CodeIgniter <br/> www.malasngoding.com</h1>
-	<form action="<?php echo base_url('login/aksi_login'); ?>" method="post">		
+	<form action="<?php echo base_url('login/aksi_login'); ?>" method="post">	<!-- menampilkan form login  -->
 		<table>
 			<tr>
 				<td>Username</td>
